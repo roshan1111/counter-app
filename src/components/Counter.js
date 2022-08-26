@@ -5,7 +5,7 @@ const Counter = () => {
   return (
   <>
  
-  <h2>Counter App</h2>
+  <h2>Counter git App</h2>
   <Counters/>
  
  
